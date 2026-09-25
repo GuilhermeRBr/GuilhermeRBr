@@ -56,8 +56,9 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRBr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRBr&layout=compact&theme=dracula&hide_border=false" height="150" alt="top langs" />
+  <img src="https://github-readme-stats-six-ochre-29.vercel.app/api?username=GuilhermeRBr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats" />
+
+  <img src="https://github-readme-stats-six-ochre-29.vercel.app/api/top-langs/?username=GuilhermeRBr&layout=compact&theme=dracula&hide_border=false" height="150" alt="top langs" />
 </div>
 
 <div align="center">
@@ -65,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeRBr&radius=16&theme=redical&area=true" height="280" alt="activity graph" />
+  <img src="https://github-readme-activity-graph-coral-seven.vercel.app/graph?username=GuilhermeRBr&radius=16&theme=redical&area=true" height="280" alt="activity graph" />
 </div>
 
 ###
@@ -82,6 +83,12 @@
 </div>
 
 ###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeRBr/GuilhermeRBr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeRBr/GuilhermeRBr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeRBr/GuilhermeRBr/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeRBr&color=blueviolet&style=flat-square&label=Visualizações+do+perfil" alt="profile views" />

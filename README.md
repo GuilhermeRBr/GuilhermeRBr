@@ -56,17 +56,17 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center"> 
- <img src="https://github-readme-stats-six-ochre-29.vercel.app/api/top-langs/?username=GuilhermeRBr&layout=compact&theme=dracula&hide_border=false" height="150" alt="top langs" />
+ <img src="https://github-readme-stats-six-ochre-29.vercel.app/api/top-langs/?username=GuilhermeRBr&layout=compact&theme=radical&hide_border=false" height="150" alt="top langs" />
  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-ochre-29.vercel.app/api?username=GuilhermeRBr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats-six-ochre-29.vercel.app/api?username=GuilhermeRBr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeRBr&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeRBr&locale=pt_BR&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak" />
 </div>
 
 <picture align="center">
